@@ -1,4 +1,7 @@
-# finance_web
+# Flutter Web Finance
+
+![Screenshot 2021-11-17 120616](https://user-images.githubusercontent.com/87581799/142165976-bf48f01c-61f4-4853-b415-b04fab16fd5c.jpg)
+
 
 A new Flutter project.
 
